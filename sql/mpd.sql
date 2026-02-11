@@ -29,7 +29,7 @@ CREATE TABLE role (
 
 
 
-// persones
+-- persones
 
 CREATE TABLE client (
   id_client     BIGSERIAL PRIMARY KEY,
